@@ -1,0 +1,8 @@
+prefix=/home/josep.ricard.zurita/mrn_ws/install
+
+Name: upc_mrn
+Description: Description of upc_mrn
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/josep.ricard.zurita/mrn_ws/install/lib 
+Requires: move_base_msgs roscpp rospy action_lib tf visualization_msgs nav_msgs geometry_msgs
